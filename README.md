@@ -1,6 +1,7 @@
 程序运行：
 #下载程序导入ide ，直接main方法即可。本程序涉及java知识点有
 #swing，awt,http,file,json
+![image](https://user-images.githubusercontent.com/17639336/139356573-4310d544-bc12-448e-bb50-1efab1411c9a.png)
 
 # imgbugs
 如果你也为没有地方存网络图片而烦恼，可以试试！
